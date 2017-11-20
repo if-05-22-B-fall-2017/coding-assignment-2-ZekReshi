@@ -14,6 +14,7 @@ male(john).
 male(pat).
 male(jacob).
 female(eve).
+female(lisa).
 female(anne).
 female(carol).
 
